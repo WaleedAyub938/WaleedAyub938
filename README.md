@@ -91,7 +91,8 @@ Hi 👋 I'm **Waleed Ayub**
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WaleedAyub938&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WaleedAyub938&theme=tokyo-night&hide_border=true&area=true&animate=true" />
+
 
 </p>
 
