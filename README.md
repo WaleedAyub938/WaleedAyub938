@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=React+Native+Developer+📱;React.js+Developer+⚛️;Mobile+App+Engineer+🚀;UI%2FUX+Focused+Developer;Building+Amazing+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=React+Native+Developer;React.js+Developer;Mobile+App+Engineer;Creating+Beautiful+Mobile+Experiences;Welcome+To+Waleed+Ayub's+Profile" />
 
 <br>
 
@@ -72,9 +72,9 @@ Hi 👋 I'm **Waleed Ayub**
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=WaleedAyub938&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WaleedAyub938&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAyub938&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WaleedAyub938&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </p>
 
@@ -101,7 +101,11 @@ Hi 👋 I'm **Waleed Ayub**
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WaleedAyub938&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/github/followers/WaleedAyub938?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/WaleedAyub938?style=for-the-badge&logo=github&label=Stars" />
+
+<img src="https://img.shields.io/github/last-commit/WaleedAyub938/WaleedAyub938?style=for-the-badge&logo=github&label=Last%20Update" />
 
 </p>
 
