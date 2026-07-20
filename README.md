@@ -203,9 +203,7 @@ console.log(developer);
 # 🐍 GitHub Snake Animation
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/WaleedAyub938/WaleedAyub938/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/WaleedAyub938/WaleedAyub938/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
